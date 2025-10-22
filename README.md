@@ -38,6 +38,11 @@ O sistema aprende com o comportamento do usuário, entende seus padrões de foco
 ## 2 📱	Oris App
 - O projeto cabeça dessa organização: O aplicativo Oris. Tecnologias como React Native e XML permitiram as ideias sairem do campo dos pensamentos e virem para o plano real.
 ---
+
+## 🧑‍💻 Integrantes
+|FrontEnd|BackEnd|UI/UX|
+|--------|-------|-----|
+|[Breno Valentim](https://github.com/Breno-V)|[Gabriel Loureiro](https://github.com/GabrielHugi)|[João Pedro](https://github.com/JooCrepaldi)|
 ## ☎️ Contato e Redes
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orishabitapp@gmail.com?subject=Quero%20saber%20mais!&body=Olá%20pessoal%20do%20Oris!%20Vim%20do%20site%20de%20vocês%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20projeto.)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/oris-habit-app/posts/?feedView=all)
